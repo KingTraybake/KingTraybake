@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Troy</h1>
 <h3 align="center">I am a student studying Maths, Physics and Computer Science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingtraybake&label=Profile%20views&color=0e75b6&style=flat" alt="kingtraybake" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingtraybake" alt="kingtraybake" /></a> </p>
-
 - 🔭 I’m currently working on [movie-app](https://github.com/KingTraybake/Movie-App)
 
 - 🌱 I’m currently learning **JavaScript**
